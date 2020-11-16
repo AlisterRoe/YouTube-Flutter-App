@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@alisterroe](https://twitter.com/alisterroe)
+Alister Roe - [@alisterroe](https://twitter.com/alisterroe)
 
 Project Link: [https://github.com/AlisterRoe/YouTube-Flutter-App](https://github.com/AlisterRoe/YouTube-Flutter-App)
 
